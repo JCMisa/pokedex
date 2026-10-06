@@ -2,6 +2,8 @@
 
 A modern, high-performance, and feature-rich Pokédex web application dedicated to the canonical **151 Generation 1 Pokémon** from the Kanto region. Built with **Next.js 16 (App Router)**, **React 19**, **Tailwind CSS v4**, **shadcn/ui**, and **TanStack Query v5**.
 
+🌐 **Live Demo:** [Pokédex — Gen 1 Pokémon & Capture Tracker](https://pokedex-kappa-bice-54.vercel.app/)
+
 ---
 
 ## 📋 Table of Contents
